@@ -12,6 +12,7 @@
     "babel-plugin-react-intl": "^2.3.0"
   },
   "scripts": {
+    "build": "npm install && npm test",
     "test": "node ./scripts/test.js"
   }
 }
